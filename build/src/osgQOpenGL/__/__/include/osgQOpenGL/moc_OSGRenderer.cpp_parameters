@@ -1,0 +1,11 @@
+-I/usr/local/include
+-I/Users/stefan/Repositories/OSG/osgQt/include
+-I/Users/stefan/Repositories/OSG/osgQt/build/src
+-F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks
+-I/Users/stefan/Repositories/OSG/osgQt/build/include
+-I/Users/stefan/Repositories/OSG/osgQt/src/osgQOpenGL
+-I/Users/stefan/Repositories/OSG/osgQt/build/src/osgQOpenGL
+-DGL_DO_NOT_WARN_IF_MULTI_GL_VERSION_HEADERS_INCLUDED
+-o
+/Users/stefan/Repositories/OSG/osgQt/build/src/osgQOpenGL/__/__/include/osgQOpenGL/moc_OSGRenderer.cpp
+/Users/stefan/Repositories/OSG/osgQt/include/osgQOpenGL/OSGRenderer
